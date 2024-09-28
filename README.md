@@ -22,7 +22,7 @@ A results-oriented procurement professional with a passion for leveraging data-d
 
 
 ## 👩‍💻 My Recent Project as Data Analyst
-- [Data End to End Project Suraj Milk](https://github.com/laburl)
+- [Data End to End Project Suraj Milk](https://github.com/rafael9509/SurajMilkDataAnalytics)
 - [RevoBank Prospensity Model](https://github.com/laburl)
 - [TheLook Ecommerce Optimization](https://github.com/laburl)
 - [WishfullBazzr Data Visualization](https://github.com/laburl)
